@@ -1,25 +1,28 @@
 <div align="center">
-    <h1>FieldGlow</h1>
-    <p>A set of soft pastel colors for <a href="https://github.com/repolink">AppName</a></p> <!-- Enter AppName + Repo Link  -->
-    <br> <br>
-    <a href="#"><img src="http://cdn.dgamer.de/FieldGlow/preview.png" alt="Preview" width="600px"></a> <!-- Replace Picture with a Real Preview -->
+    <h3>
+     <img src="https://assets.dgamer.de/raw/circle2.png" width="125" alt="Logo"/><br><br>
+    Pixel Icons
+    </h3>
 </div>
 
 
 ## 📦 Usage
 <!-- Write a description here of how to use the Port-->
-1. From this repository, click "Use Template" at the top
-2. Give the fork a name, such as youtube (not "Youtube," use lowercase letters)
-3. Give the repository a description, for example:
-"[EMOJI THAT DESCRIBES YOUR APP] A set of soft pastel colors for the app"
-or
-"📺 A set of soft pastel colors for YouTube"
-4. Create the repository
-5. Commit, push, and so on
+1. Download the 'ico' folder from this repository
+2. Save it to a safe location
+3. Copy the path to an icon.
+
+Windows:
+1. Press the Win key
+2. Type in your program, e.g., Discord
+3. Click “Show more” if available, then “Open File Location”
+4. Right-click on the file and select “Properties”
+5. Click the “Change Icon” button
+6. Enter the path into the field.
 <!-- End of Usage -->
 
 ## ❤️ Credits
-<!--- - [USER](LINK)-->
+- [DgamerDev](https://github.com/DgamerDev)
 
 <br>
 <div align="center">
